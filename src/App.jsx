@@ -1,6 +1,6 @@
 import { useState } from "react";
-import PersonalDetails from "./components/personalDetails";
-import Profile from "./components/profile";
+import PersonalDetails from "./components/PersonalDetails";
+import Profile from "./components/Profile";
 import TechExp from "./components/TechExp";
 import WorkExp from "./components/WorkExp";
 import Display from "./components/Display";
