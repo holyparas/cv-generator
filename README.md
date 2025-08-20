@@ -1,11 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# CV Generator
+•	Developed an interactive resume builder using React state and modular components.
+•	Enabled real-time preview updates and structured input sections for education, work, and skills.
+Live site deployed on netlify: https://parascvgenerator.netlify.app/ 
 
 ## Expanding the ESLint configuration
 
