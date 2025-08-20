@@ -1,6 +1,8 @@
 # CV Generator
 •	Developed an interactive resume builder using React state and modular components.  
-•	Enabled real-time preview updates and structured input sections for education, work, and skills.
+•	Enabled real-time preview updates and structured input sections for education, work, and skills.  
+
+  
 Live site deployed on netlify: https://parascvgenerator.netlify.app/  
 
 __Technology used__: JavaScript, ReactJS, HTML/CSS
