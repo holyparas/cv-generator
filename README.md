@@ -3,7 +3,7 @@
 •	Enabled real-time preview updates and structured input sections for education, work, and skills.
 Live site deployed on netlify: https://parascvgenerator.netlify.app/  
 
-Technology used: JavaScript, ReactJS, HTML/CSS
+__Technology used__: JavaScript, ReactJS, HTML/CSS
 
 ## Quick Start  
 1) Clone the repository
