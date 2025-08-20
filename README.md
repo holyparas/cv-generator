@@ -1,8 +1,12 @@
 # CV Generator
-•	Developed an interactive resume builder using React state and modular components.
+•	Developed an interactive resume builder using React state and modular components.  
 •	Enabled real-time preview updates and structured input sections for education, work, and skills.
-Live site deployed on netlify: https://parascvgenerator.netlify.app/ 
+Live site deployed on netlify: https://parascvgenerator.netlify.app/  
 
-## Expanding the ESLint configuration
+Technology used: JavaScript, ReactJS, HTML/CSS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Quick Start  
+1) Clone the repository
+2) Navigate to folder using terminal and then run (`npm install`) for the dependencies
+3) Run the development server to view the project (`npm run dev`)
+4) Open the project on local host url shown on terminal
